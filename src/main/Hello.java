@@ -3,7 +3,7 @@ package main;
 /**
  * Prints a message out to the console.
  * 
- * @author casey
+ * @author CRGravelle
  *
  */
 public class Hello {
